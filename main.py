@@ -22,7 +22,7 @@ origins = [
     "http://localhost:4200",
     "http://localhost",
     "http://127.0.0.1:8000",
-
+    "https://data-assignment.onrender.com"
 ]
 
 app.add_middleware(
